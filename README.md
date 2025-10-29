@@ -7,10 +7,10 @@ Between 2020 and 2024, Bahrain’s sugar and sugar confectionery imports rose sh
 ### 1-How has the overall import value (BD) evolved over the years?
 In this approach, a line chart was created using two variables — Import Value (BD) on the Y-axis and Years on the X-axis.
 ### 2-Which sugar and sugar confectionery products are the top imports to Bahrain?
-In this approach, a Bar chart was created using two variables — Commodity  on the Y-axis and sum of  import qunatity on the X-axis.
-
-### 3-What does the geographical distribution of imports look like in terms of total import value?
-
+In this approach, a  Clustared Bar chart was created using two variables — Commodity  on the Y-axis and sum of  import qunatity on the X-axis.
+### 3-what are the top country that import sugar and sugar confectionery to Bahrain in term of import value  ? 
+In this approach, a Bar chart was created using two variables — Import Value(BD) on the Y-axis and Coutry on the X-axis.
+### 4-What does the geographical distribution of imports look like in terms of total import value?
 In this approach, a Map was created using two variables — country on Location and sum of  import value the Bubble size. 
 ## Conclusion 
 Bahrain’s imports of sugar and sugar confectionery grew steadily from 2020 to 2024, rising from BD 17M to BD 36M. Most imports come from Saudi Arabia, followed by India and Brazil. The main imported items are Refined Sugar Crystals and sweetmeats. Overall, imports have increased in both value and volume, reflecting Bahrain’s growing Demand.

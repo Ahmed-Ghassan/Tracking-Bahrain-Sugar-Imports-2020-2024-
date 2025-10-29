@@ -19,3 +19,7 @@ Bahrain’s imports of sugar and sugar confectionery grew steadily from 2020 to 
    1-  Bahrain should aim to reduce its reliance on foreign countries for importing sugar and sugar confectionery products by exploring opportunities to strengthen local production. 
 
    2- Since most imported items are primary sugar-based products, it is recommended that Bahrain increase the import of sugar alternatives.
+## Limitation 
+  1-Dataset  only covers imports and does not include local production or exports, giving a partial view of sugar consumption concern.
+
+  2-The import data may not be entirely accurate. For example, the dataset shows that the most imported product is Halwa Bahraniah, which is recorded as     being imported from Turkey.

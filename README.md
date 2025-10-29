@@ -12,3 +12,10 @@ In this approach, a Bar chart was created using two variables — Commodity  on 
 ### 3-What does the geographical distribution of imports look like in terms of total import value?
 
 In this approach, a Map was created using two variables — country on Location and sum of  import value the Bubble size. 
+## Conclusion 
+Bahrain’s imports of sugar and sugar confectionery grew steadily from 2020 to 2024, rising from BD 17M to BD 36M. Most imports come from Saudi Arabia, followed by India and Brazil. The main imported items are Refined Sugar Crystals and sweetmeats. Overall, imports have increased in both value and volume, reflecting Bahrain’s growing Demand.
+## Recommendation
+
+### 1-  Bahrain should aim to reduce its reliance on foreign countries for importing sugar and sugar confectionery products by exploring opportunities to strengthen local production. 
+
+### 2- Since most imported items are primary sugar-based products, it is recommended that Bahrain increase the import of sugar alternatives.
